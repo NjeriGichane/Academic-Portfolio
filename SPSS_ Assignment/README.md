@@ -15,4 +15,4 @@ Analyzed survey data from the 2014 General Social Services Survey. Key activitie
 ## Files Included  
 - *Sharon_SPSS_Assignment.pdf*: Full report of the analysis and results.  
 
-[View Project File](./Sharon_SPSS_Assignment.pdf)
+
